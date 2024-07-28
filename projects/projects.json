@@ -1,0 +1,63 @@
+[
+
+  {
+    "name": "Service Profile",
+    "desc": "This website is a website that makes it easy for us to offer services as well as our portfolio and GitHub account.",
+    "image": "serviceprofile",
+    "category": "service",
+    "links": {
+      "view": "https://zakyzabar.github.io/Service-Profile/",
+      "code": "https://github.com/zakyzabar/Service-Profile"
+    }
+  },
+  {
+    "name": "Warung Expomatika",
+    "desc": "Warung Informatika is a website for traditional food stalls in Indonesia so they can go digital and compete with online shop applications.",
+    "image": "warungexpo",
+    "category": "warung",
+    "links": {
+      "view": "https://www.warungexpomatika.c1.is/",
+      "code": "https://github.com/zakyzabar/warungexpomatika"
+    }
+  },
+  {
+    "name": "Login Staf",
+    "desc": "In this digital era, we need a website for employees to make it easier to input menus ordered by customers.",
+    "image": "loginstaf",
+    "category": "staflogin",
+    "links": {
+      "view": "https://www.warungexpomatika.c1.is/auth/loginpegawai",
+      "code": "https://github.com/zakyzabar/warungexpomatika"
+    }
+  },
+  {
+    "name": "Dashboard Penjualan",
+    "desc": "With this website, now all restaurant owners can more easily monitor their restaurant's income and how many customers come to their restaurant.",
+    "image": "dashboard",
+    "category": "dashboard",
+    "links": {
+      "view": "https://www.warungexpomatika.c1.is/admin",
+      "code": "https://github.com/zakyzabar/warungexpomatika"
+    }
+  },
+  {
+    "name": "Portofolio",
+    "desc": "This website was my first portfolio when I first entered the world of coding.",
+    "image": "porto2",
+    "category": "porto",
+    "links": {
+      "view": "https://zakyzabar.github.io/Service-Profile/portofolio.html",
+      "code": "https://github.com/zakyzabar/my-portofolio"
+    }
+  },
+  {
+    "name": "My Portofolio",
+    "desc": "This website is my second portfolio when I was a 2nd semester student college.",
+    "image": "porto1",
+    "category": "porto",
+    "links": {
+      "view": "https://zakyzabar.github.io/Service-Profile/zacky-portofolio.html",
+      "code": "https://github.com/zakyzabar/zacky-portofolio"
+    }
+  }
+]
