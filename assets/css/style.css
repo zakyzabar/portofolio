@@ -35,7 +35,7 @@ body.dark-mode {
   height: 100vh;
 }
 .theme-switch {
-  position: relative;
+  position: fixed;
   display: inline-block;
   width: 80px;
   height: 44px;
