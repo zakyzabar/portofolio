@@ -37,7 +37,7 @@ body.dark-mode {
 .theme-switch {
   position: fixed;
   display: inline-block;
-  width: 80px;
+  width: 70px;
   height: 44px;
 }
 .theme-switch input {
@@ -55,7 +55,7 @@ body.dark-mode {
   background-color: #ffc72b;
   transition: 0.4s;
   border-radius: 44px;
-  width: 80px;
+  width: 70px;
   height: 44px;
 }
 .slider:hover {
@@ -80,7 +80,7 @@ input:checked + .s;ider:hover {
   box-shadow: 0 0 20px rgb(255, 255, 255);
 }
 input:checked + .slider:before {
-  transform: translateX(36px);
+  transform: translateX(26px);
   background-image: url('/assets/images/moon-solid.svg');
   background-size: cover;
 }
