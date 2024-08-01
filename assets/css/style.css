@@ -25,7 +25,11 @@ body {
   background: #2b3dda;
   color: #fff;
 }
-
+.dark-mode {
+    --bg-color: #0b061f;
+    --text-color: #fdfdfd;
+    --shadow-color: rgba(0, 0, 0, .7);
+}
 html {
   font-size: 62.5%;
   overflow-x: hidden;
