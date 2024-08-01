@@ -37,7 +37,7 @@ body.dark-mode {
 .theme-switch {
   position: relative;
   display: inline-block;
-  width: 80px;
+  width: 70px;
   height: 44px;
 }
 .theme-switch input {
