@@ -277,4 +277,4 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { interval: 400 });
-srtop.reveal('.contact .container .form-group', { delay: 200 });
+srtop.reveal('.contact .container .form-group', { delay: 400 });
