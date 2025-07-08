@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Halaman Profil Jasa",
+    "desc": "Halaman arahan yang dirancang untuk menampilkan jasa secara profesional, memamerkan portofolio, dan terintegrasi dengan profil GitHub untuk visibilitas proyek.",
+    "image": "serviceprofile",
+    "category": "service",
+    "links": {
+      "view": "https://zakyzabar.github.io/Service-Profile/",
+      "code": "https://github.com/zakyzabar/Service-Profile"
+    }
+  },
+  {
+    "name": "Warung Expomatika",
+    "desc": "Platform web untuk digitalisasi warung tradisional Indonesia, memungkinkan mereka mengelola pesanan online dan bersaing di pasar digital.",
+    "image": "warungexpo",
+    "category": "warung",
+    "links": {
+      "view": "_blank",
+      "code": "https://github.com/zakyzabar/warungexpomatika"
+    }
+  },
+  {
+    "name": "Sistem Input Pesanan Staf",
+    "desc": "Antarmuka khusus staf untuk input pesanan yang efisien, dirancang untuk merampingkan proses memasukkan pilihan menu dari pelanggan.",
+    "image": "loginstaf",
+    "category": "staflogin",
+    "links": {
+      "view": "_blank",
+      "code": "https://github.com/zakyzabar/warungexpomatika"
+    }
+  },
+  {
+    "name": "Dasbor Penjualan & Analitik",
+    "desc": "Dasbor analitik bagi pemilik restoran untuk memantau indikator kinerja utama (KPI), termasuk pendapatan harian dan jumlah pengunjung.",
+    "image": "dashboard",
+    "category": "dashboard",
+    "links": {
+      "view": "_blank",
+      "code": "https://github.com/zakyzabar/warungexpomatika"
+    }
+  },
+  {
+    "name": "Portofolio Pertama Saya",
+    "desc": "Proyek portofolio awal yang dikembangkan untuk melatih kemampuan dasar pengembangan web dan menampilkan hasil proyek pertama.",
+    "image": "porto2",
+    "category": "porto",
+    "links": {
+      "view": "https://zakyzabar.github.io/Service-Profile/portofolio.html",
+      "code": "https://github.com/zakyzabar/my-portofolio"
+    }
+  },
+  {
+    "name": "Portofolio Tahun Kedua",
+    "desc": "Portofolio pribadi yang didesain ulang pada tahun kedua perkuliahan, menampilkan peningkatan UI/UX dan koleksi proyek yang lebih beragam.",
+    "image": "porto1",
+    "category": "porto",
+    "links": {
+      "view": "https://zakyzabar.github.io/Service-Profile/zacky-portofolio.html",
+      "code": "https://github.com/zakyzabar/zacky-portofolio"
+    }
+  }
+]

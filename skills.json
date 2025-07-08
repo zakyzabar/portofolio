@@ -1,0 +1,26 @@
+[
+    {
+        "name": "CodeIgniter",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CodeIgniterLogo.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/?size=100&id=plPz67QUdeWA&format=png&color=000000"
+    },
+    {
+        "name": "Ubuntu",
+        "icon": "https://img.icons8.com/color/48/000000/ubuntu.png"
+    }        
+]
